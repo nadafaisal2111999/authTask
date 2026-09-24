@@ -1,4 +1,3 @@
-```markdown
 # Auth & Social Feed App 📱🔥
 
 A full-stack Flutter application featuring real-time authentication, dynamic post creation, real-time social feed integration, like system, and post management using Cloud Firestore and Firebase Authentication. Built with Clean Architecture principles and BLoC/Cubit state management.
@@ -50,56 +49,3 @@ A full-stack Flutter application featuring real-time authentication, dynamic pos
 
 ## 📂 Project Structure
 
-
-```
-
-lib/
-├── core/
-│   └── di/                     # Dependency Injection configuration
-├── features/
-│   ├── auth/
-│   │   ├── data/               # Auth Data sources, models, & repositories
-│   │   ├── domain/             # Auth Entities, repositories interfaces, & UseCases
-│   │   └── presentation/       # Auth Cubit, States, and Views (Login, Signup, AuthGate)
-│   └── fireStore/
-│       ├── model/              # PostModel and Firestore mapping
-│       └── presentation/       # HomeView & AddPost screens
-└── main.dart                   # Entry point with Firebase initialization
-
-```
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/nadafaisal2111999/authTask.git](https://github.com/nadafaisal2111999/authTask.git)
-
-```
-
-2. **Navigate to project directory:**
-```bash
-cd authTask
-
-```
-
-
-3. **Install dependencies:**
-```bash
-flutter pub get
-
-```
-
-
-4. **Run the application:**
-```bash
-flutter run
-
-```
-
-
-
-```
-
-```
