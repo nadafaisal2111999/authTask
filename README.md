@@ -54,3 +54,15 @@ A full-stack Flutter application featuring real-time authentication, dynamic pos
 ---
 
 ## 📂 Project Structure
+lib/
+├── core/
+│   └── di/                     # Dependency Injection configuration
+├── features/
+│   ├── auth/
+│   │   ├── data/               # Auth Data sources, models, & repositories
+│   │   ├── domain/             # Auth Entities, repositories interfaces, & UseCases
+│   │   └── presentation/       # Auth Cubit, States, and Views (Login, Signup, AuthGate)
+│   └── fireStore/
+│       ├── model/              # PostModel and Firestore mapping
+│       └── presentation/       # HomeView & AddPost screens
+└── main.dart                   # Entry point with Firebase initialization
