@@ -7,11 +7,13 @@ A full-stack Flutter application featuring real-time authentication, dynamic pos
 
 ## 📸 Screenshots
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c6f9fbfd-9d6e-46de-af89-a73adb471069" width="250" /> | <img src="https://github.com/user-attachments/assets/40b375ed-d05c-405e-bc27-f34836a0a2b7" width="250" /> | <img src="https://github.com/user-attachments/assets/f9e8913b-cae0-4291-9c8f-8005c4dbf6fc" width="250" /> |
-| <img src="https://github.com/user-attachments/assets/ab99e2f6-0f17-4cd2-9289-49975592a486" width="250" /> | <img src="https://github.com/user-attachments/assets/7481d23d-a431-45be-98e4-f33b2b944c04" width="250" /> | <img src="https://github.com/user-attachments/assets/9b5da764-e4b7-4cf2-9608-4cd750fc23d2" width="250" /> |
-| <img src="https://github.com/user-attachments/assets/d9711111-e761-440e-b89f-013d261fdeda" width="250" /> | | |
+<img width="1177" height="2145" alt="Screenshot 2026-09-24 043714" src="https://github.com/user-attachments/assets/c6f9fbfd-9d6e-46de-af89-a73adb471069" />
+<img width="1212" height="2175" alt="Screenshot 2026-09-24 043657" src="https://github.com/user-attachments/assets/40b375ed-d05c-405e-bc27-f34836a0a2b7" />
+<img width="1210" height="2075" alt="Screenshot 2026-09-24 043620" src="https://github.com/user-attachments/assets/9b5da764-e4b7-4cf2-9608-4cd750fc23d2" />
+<img width="1195" height="1997" alt="Screenshot 2026-09-24 043850" src="https://github.com/user-attachments/assets/ab99e2f6-0f17-4cd2-9289-49975592a486" />
+<img width="1170" height="2030" alt="Screenshot 2026-09-24 043834" src="https://github.com/user-attachments/assets/7481d23d-a431-45be-98e4-f33b2b944c04" />
+<img width="1205" height="2042" alt="Screenshot 2026-09-24 043814" src="https://github.com/user-attachments/assets/f9e8913b-cae0-4291-9c8f-8005c4dbf6fc" />
+<img width="1180" height="2050" alt="Screenshot 2026-09-24 043734" src="https://github.com/user-attachments/assets/d9711111-e761-440e-b89f-013d261fdeda" />
 
 ---
 
