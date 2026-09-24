@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848697741353",
+    "project_id": "pro1firebase-ce707",
+    "storage_bucket": "pro1firebase-ce707.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848697741353:android:ca9835e213b50865010c38",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOPXeyvtf8Z8sZjU6gFpJZ0sGa0uPINs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
